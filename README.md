@@ -352,7 +352,7 @@ Welche Aussagen zu Blind- und Sichtholzgestellen sind richtig?
 <div class="flex-child">
 
 
-![Fragezeichen](assets/images/question_maennl.jpg "[_Quelle: Pixabay, Peggy+Marco_](https://pixabay.com/photos/question-question-mark-help-2309042/)")<!-- style="max-width: 300px; width: 100%;  margin-left: 40px; margin-top:100px;" -->
+![Rotes Fragezeichen auf weißem Hintergrund als Symbol für Fragen, Hilfe oder Unsicherheit.](assets/images/question_maennl.jpg "Rotes Fragezeichen als Symbol für Fragen und Hilfestellung. Bild von [Peggy_Marco via Pixabay](https://pixabay.com/photos/question-question-mark-help-2309042/), Pixabay Content License, veröffentlicht am 13. Mai 2017.")<!-- style="max-width: 300px; width: 100%;  margin-left: 40px; margin-top:100px;" -->
 
 
 </div>
@@ -431,7 +431,7 @@ Welche vier Aussagen treffen zu?
 <div class="flex-child">
 
 
-![Pinsel_Acryllack](assets/images/brush_and_paint.jpg "[_Quelle: Pixabay, MIH83_](https://pixabay.com/photos/paint-brush-paint-can-paint-can-1198172/)")<!-- style="max-width: 550px; width: 100%; margin-left: 0px; margin-top:50px;" -->
+![Pinsel liegt auf einer geöffneten Farbdose mit weißem Hintergrund.](assets/images/brush_and_paint.jpg "Pinsel auf einer geöffneten Farbdose. Bild von [MIH83 via Pixabay](https://pixabay.com/photos/paint-brush-paint-can-paint-can-1198172/), Pixabay Content License, veröffentlicht am 15. Februar 2016.")<!-- style="max-width: 550px; width: 100%; margin-left: 0px; margin-top:50px;" -->
 
 </div>
 </section>
@@ -458,7 +458,7 @@ Welche vier Aussagen treffen zu?
 <div class="flex-child">
 
 
-![Pinsel mit Farbe](assets/images/paint_w_brush.jpg "[_Quelle: Pixabay, Carola68_](https://pixabay.com/de/photos/pinsel-lackieren-dose-lackdose-4974233/)")<!-- style="max-width: 550px; width: 100%; margin-left: 10px; margin-top:80px;" -->
+![Pinsel liegt auf einer geöffneten Lackdose mit weißer Farbe.](assets/images/paint_w_brush.jpg "Pinsel und geöffnete Lackdose mit weißer Farbe. Bild von [Carola68 via Pixabay](https://pixabay.com/de/photos/pinsel-lackieren-dose-lackdose-4974233/), Pixabay Content License, veröffentlicht am 28. März 2020.")<!-- style="max-width: 550px; width: 100%; margin-left: 10px; margin-top:80px;" -->
 
 </div>
 </section>
@@ -492,4 +492,4 @@ Welche vier Aussagen treffen zu?
 
 ## Geschafft 🎉
 
-![Jubel](assets/images/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Bunte Silhouetten mehrerer springender Menschen vor weißem Hintergrund als Symbol für Freude, Spaß und Lebensfreude.](assets/images/colorfull_jumping.jpg "Farbige Silhouetten springender Menschen als Ausdruck von Freude und Spaß. Bild von [geralt via Pixabay](https://pixabay.com/de/illustrations/freude-springen-luftsprung-spa%C3%9F-3940425/), Pixabay Content License, veröffentlicht am 19. Januar 2019.")
